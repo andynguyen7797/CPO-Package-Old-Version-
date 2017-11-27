@@ -1,0 +1,42 @@
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.exe
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.pdb
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.xml
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\ResolveAssemblyReference.cache
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1_THISINH_SEND.Form1.resources
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1_THISINH_SEND.Resources.resources
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.vbproj.GenerateResource.Cache
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.exe
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.xml
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.pdb
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.exe
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.xml
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.pdb
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.exe
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.pdb
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.xml
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1_THISINH_SEND.Form1.resources
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1_THISINH_SEND.Resources.resources
+C:\Users\Vu Nguyen\Desktop\all\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.vbproj.GenerateResource.Cache
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.exe
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.xml
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.pdb
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.exe
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.pdb
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.xml
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.vbprojResolveAssemblyReference.cache
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1_THISINH_SEND.Form1.resources
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1_THISINH_SEND.Resources.resources
+D:\CPO NH\mã nguồn\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.vbproj.GenerateResource.Cache
+D:\CPO NH\mã nguồn\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.exe
+D:\CPO NH\mã nguồn\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.xml
+D:\CPO NH\mã nguồn\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.pdb
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.exe
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.xml
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.pdb
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.vbprojResolveAssemblyReference.cache
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1_THISINH_SEND.Form1.resources
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1_THISINH_SEND.Resources.resources
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\obj\Release\MAY1-THISINH-SEND.vbproj.GenerateResource.Cache
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.exe
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.pdb
+D:\CPO NH\mã nguồn\New folder\FINAL_2\MAY1-THISINH-SEND\MAY1-THISINH-SEND\bin\Release\MAY1-THISINH-SEND.xml
