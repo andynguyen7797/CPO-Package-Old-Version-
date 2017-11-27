@@ -1,0 +1,251 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CPONH
+</name>
+</assembly>
+<members>
+<member name="T:CPONH.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources._12308395_188552941486241_7056986470716851674_n">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources._12356219_986334518092662_1687702998_o">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources._12369546_986334608092653_499683781_o">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources._12376743_989793781080069_5196969331959776226_n">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources._12413915_992894617436652_2093436977_o">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources._14125091_1093897767367020_4100468470676326284_o">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources._1954263">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.anh1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.anh2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.anh3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.Comp_12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.gear_smile_smiley_v9_smile_smiley_emotion_happy_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.HELP">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_account_circle_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_alarm_on_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_cached_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_clear_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_developer_board_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_developer_board_white_48dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_done_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_donut_large_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_expand_more_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_filter_list_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_format_indent_decrease_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_format_indent_increase_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_fullscreen_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_gps_fixed_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_help_outline_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_list_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_live_help_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_settings_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_settings_white_24dp_1x1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_settings_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_sort_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_space_bar_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_swap_vert_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_tune_white_48dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_update_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_view_carousel_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_view_carousel_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.ic_vpn_key_white_24dp_1x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.pity_marker_pointer_position_emotion_emoticon_smile_512">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.plainicokn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.webview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH.My.Resources.Resources.white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

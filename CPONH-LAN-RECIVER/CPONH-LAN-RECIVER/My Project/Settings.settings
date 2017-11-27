@@ -1,0 +1,162 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="ip1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ip2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ip3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ip4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ico1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ico2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ico3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ico4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="psw_antitheft" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="chieungang" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1354</Value>
+    </Setting>
+    <Setting Name="chieudoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">721</Value>
+    </Setting>
+    <Setting Name="phongto" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="thunho" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anhnen" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anhnendefault" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ten1y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">19</Value>
+    </Setting>
+    <Setting Name="ten1x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">429</Value>
+    </Setting>
+    <Setting Name="ten2y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">182</Value>
+    </Setting>
+    <Setting Name="ten2x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">596</Value>
+    </Setting>
+    <Setting Name="ten3y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">464</Value>
+    </Setting>
+    <Setting Name="ten3x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">759</Value>
+    </Setting>
+    <Setting Name="ten4x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">891</Value>
+    </Setting>
+    <Setting Name="ten4y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">536</Value>
+    </Setting>
+    <Setting Name="time1x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">265</Value>
+    </Setting>
+    <Setting Name="time1y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">88</Value>
+    </Setting>
+    <Setting Name="time2x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">428</Value>
+    </Setting>
+    <Setting Name="time2y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">252</Value>
+    </Setting>
+    <Setting Name="time3x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">595</Value>
+    </Setting>
+    <Setting Name="time3y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">431</Value>
+    </Setting>
+    <Setting Name="time4x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">721</Value>
+    </Setting>
+    <Setting Name="time4y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">600</Value>
+    </Setting>
+    <Setting Name="dapan1x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">410</Value>
+    </Setting>
+    <Setting Name="dapan1y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">82</Value>
+    </Setting>
+    <Setting Name="dapan2x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">566</Value>
+    </Setting>
+    <Setting Name="dapan2y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">246</Value>
+    </Setting>
+    <Setting Name="dapan3x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">737</Value>
+    </Setting>
+    <Setting Name="dapan3y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">425</Value>
+    </Setting>
+    <Setting Name="dapan4x" Type="System.String" Scope="User">
+      <Value Profile="(Default)">857</Value>
+    </Setting>
+    <Setting Name="dapan4y" Type="System.String" Scope="User">
+      <Value Profile="(Default)">594</Value>
+    </Setting>
+    <Setting Name="mautieudemnt" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="maunoidungmnt" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="anti" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="mautexttieude" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="mautextnoidung" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="boldtieude" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="boldnoidung" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ktrabq" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="s" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ưqeqưe" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="keyanh" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="keyanh2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ddd" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CPONH-LAN-RECIVER
+</name>
+</assembly>
+<members>
+<member name="T:CPONH_LAN_RECIVER.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources._00000539">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources._12308395_188552941486241_7056986470716851674_n">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources._12356219_986334518092662_1687702998_o">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources._12369546_986334608092653_499683781_o">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources._3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources._new">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.ic_account_circle_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.ic_clear_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.ic_sort_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.ic_view_carousel_white_24dp_2x">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.steel_wall_hd_wallpaper_1366x768">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.steel_wall_hd_wallpaper_1366x7681">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CPONH_LAN_RECIVER.My.Resources.Resources.Untitled_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

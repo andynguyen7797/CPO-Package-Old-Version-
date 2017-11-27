@@ -1,0 +1,10 @@
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\bin\Debug\CPONH-LAN-RECIVER.exe
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\bin\Debug\CPONH-LAN-RECIVER.pdb
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\bin\Debug\CPONH-LAN-RECIVER.xml
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\obj\Debug\CPONH_LAN_RECIVER.Form1.resources
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\obj\Debug\CPONH_LAN_RECIVER.Resources.resources
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\obj\Debug\CPONH-LAN-RECIVER.vbproj.GenerateResource.Cache
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\obj\Debug\CPONH-LAN-RECIVER.exe
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\obj\Debug\CPONH-LAN-RECIVER.xml
+C:\Users\pnngu\Documents\Visual Studio 2008\Projects\CPONH-LAN-RECIVER\CPONH-LAN-RECIVER\obj\Debug\CPONH-LAN-RECIVER.pdb

@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D381C4EF-D4EB-470C-8973-1CEC3F868EDB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CPONH.My.MyApplication</StartupObject>
+    <RootNamespace>CPONH</RootNamespace>
+    <AssemblyName>CPONH</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CPONH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CPONH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ico.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>CPONH.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>CPONH.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="turn.Designer.vb">
+      <DependentUpon>turn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="turn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="confirmexit.Designer.vb">
+      <DependentUpon>confirmexit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="confirmexit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="connectstartprogres.Designer.vb">
+      <DependentUpon>connectstartprogres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="connectstartprogres.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cponh.Designer.vb">
+      <DependentUpon>cponh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cponh.vb" />
+    <Compile Include="CPONHMAIN.Designer.vb">
+      <DependentUpon>CPONHMAIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CPONHMAIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layed.Designer.vb">
+      <DependentUpon>Layed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MNT4.Designer.vb">
+      <DependentUpon>MNT4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MNT4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MNT3.Designer.vb">
+      <DependentUpon>MNT3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MNT3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MNT2.Designer.vb">
+      <DependentUpon>MNT2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MNT2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MNT1.Designer.vb">
+      <DependentUpon>MNT1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MNT1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="CPOSTG.Designer.vb">
+      <DependentUpon>CPOSTG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CPOSTG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="testfreemove.Designer.vb">
+      <DependentUpon>testfreemove.vb</DependentUpon>
+    </Compile>
+    <Compile Include="testfreemove.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="turn.resx">
+      <DependentUpon>turn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="confirmexit.resx">
+      <DependentUpon>confirmexit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="connectstartprogres.resx">
+      <DependentUpon>connectstartprogres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cponh.resx">
+      <DependentUpon>cponh.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CPONHMAIN.resx">
+      <DependentUpon>CPONHMAIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layed.resx">
+      <DependentUpon>Layed.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MNT4.resx">
+      <DependentUpon>MNT4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MNT3.resx">
+      <DependentUpon>MNT3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MNT2.resx">
+      <DependentUpon>MNT2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MNT1.resx">
+      <DependentUpon>MNT1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CPOSTG.resx">
+      <DependentUpon>CPOSTG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="testfreemove.resx">
+      <DependentUpon>testfreemove.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12308395_188552941486241_7056986470716851674_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12356219_986334518092662_1687702998_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12369546_986334608092653_499683781_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.docx" />
+    <None Include="Resources\steel_wall_hd-wallpaper-1366x768.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steel_wall_hd-wallpaper-1366x7681.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_account_circle_white_24dp_2x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_clear_white_24dp_2x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_sort_white_24dp_2x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_view_carousel_white_24dp_2x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_cached_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_done_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12376743_989793781080069_5196969331959776226_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_settings_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_swap_vert_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_fullscreen_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12413915_992894617436652_2093436977_o.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_expand_more_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_gps_fixed_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_alarm_on_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic_update_white_24dp_1x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loader.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ico.ico" />
+    <None Include="Resources\anh3.jpg" />
+    <None Include="Resources\anh2.jpg" />
+    <None Include="Resources\anh1.jpg" />
+    <None Include="Resources\14481746_810498909053236_5032886009742753865_o.jpg" />
+    <None Include="Resources\14125091_1093897767367020_4100468470676326284_o.jpg" />
+    <None Include="Resources\ic_settings_white_24dp_2x.png" />
+    <None Include="Resources\ic_settings_white_24dp_1x1.png" />
+    <None Include="Resources\Comp-12.gif" />
+    <None Include="Resources\gear_smile_smiley_v9_smile_smiley_emotion_happy-512.png" />
+    <None Include="Resources\pity_marker_pointer_position_emotion_emoticon_smile-512.png" />
+    <None Include="Resources\ic_live_help_white_24dp_2x.png" />
+    <None Include="Resources\ic_view_carousel_white_24dp_1x.png" />
+    <None Include="Resources\ic_filter_list_white_24dp_1x.png" />
+    <None Include="Resources\ic_vpn_key_white_24dp_1x.png" />
+    <None Include="Resources\ic_donut_large_white_24dp_1x.png" />
+    <None Include="Resources\white.png" />
+    <None Include="Resources\plainicokn.png" />
+    <None Include="Resources\ic_space_bar_white_24dp_1x.png" />
+    <None Include="Resources\ic_tune_white_48dp_2x.png" />
+    <None Include="Resources\ic_developer_board_white_48dp_2x.png" />
+    <None Include="Resources\ic_developer_board_white_24dp_2x.png" />
+    <None Include="Resources\ic_format_indent_decrease_white_24dp_1x.png" />
+    <None Include="Resources\ic_format_indent_increase_white_24dp_1x.png" />
+    <None Include="Resources\ic_list_white_24dp_1x.png" />
+    <None Include="Resources\webview.gif" />
+    <None Include="Resources\ic_help_outline_white_24dp_1x.png" />
+    <None Include="Resources\1954263.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
